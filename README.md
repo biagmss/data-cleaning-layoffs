@@ -1,4 +1,5 @@
 📌 Data Cleaning - Layoffs Analysis
+
 🔹 Projeto de limpeza de dados aplicado a um dataset de demissões globais. O objetivo foi remover duplicatas, padronizar dados, tratar valores nulos e preparar a base para análise.
 
  Tecnologias utilizadas
